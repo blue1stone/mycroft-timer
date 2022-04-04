@@ -1,1 +1,1 @@
-Der {{ordinal}} Timer für {{duration}}, der {{name}} aufgerufen wurde, hat {{time_diff}} verbleibende Zeit
+Der {{ordinal}} Timer für {{duration}} namens {name} hat {{time_diff}} übrig

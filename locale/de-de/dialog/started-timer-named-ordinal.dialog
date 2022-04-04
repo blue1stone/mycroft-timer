@@ -1,3 +1,3 @@
-Ein {ordinal} Timer wurde für {duration} für {name} gestartet
-Okay, ich habe einen {ordinal} Timer für {duration} für {name} gesetzt
-Ich starte einen {ordinal} Timer für {duration} für {name}
+Ein {ordinal} Timer namens {name} wurde für {duration} gestartet
+Okay, ich habe einen {ordinal} Timer namens {name} für {duration} gesetzt
+Ich starte einen {ordinal} Timer namens {name} für {duration}

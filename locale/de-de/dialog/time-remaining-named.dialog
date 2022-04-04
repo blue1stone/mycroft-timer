@@ -1,1 +1,1 @@
-Der {name} Timer für {{duration}} hat {{time_diff}} verbleibende Zeit
+Der Timer für {{duration}} namens {name} hat {{time_diff}} übrig
