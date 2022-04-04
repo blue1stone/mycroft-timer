@@ -1,8 +1,3 @@
-timer
-(ein | weiterer | zweiter | dritter | vierter | fünfter |) timer ((für |) {duration} |)
-ping mich um {duration}
-timer für {duration}
-
-
-
-{duration} Timer (genannt|mit Namenn|für) {name}.
+(ein | weiterer | zweiter | dritter | vierter | fünfter |) timer ((auf | für | mit der länge) {duration} |)
+ping mich nach {duration}
+((starte | erstelle | stelle) einen |) timer (auf | für | mit der länge) {duration} (mit (name | (dem |) namen | bezeichnung | label) {name} |)
